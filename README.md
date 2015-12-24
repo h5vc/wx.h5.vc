@@ -1,8 +1,9 @@
 ---
+date: 2015-12-24 16:30
+status: draft
 title: 在Github上贡献文章
-date: 2015-12-01 18:36
-status: public
 ---
+
 ##  爱奇舞微信公众号后台内容
 
 这个项目存放的是 http://wx.h5.vc 这个网站的源文件。
