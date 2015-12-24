@@ -1,7 +1,11 @@
-# wx.h5.vc
-爱奇舞微信公众号文章后台
+---
+title: 在Github上贡献文章
+date: 2015-12-01 18:36
+status: public
+---
+##  爱奇舞微信公众号后台内容
 
-这个目录存放的是 http://wx.h5.vc 这个网站的源文件。
+这个项目存放的是 http://wx.h5.vc 这个网站的源文件。
 
 写作的时候使用的是 Farbox ：https://www.farbox.com/ ，所以默认的图片路径在 Github 上不能正常显示。
 
