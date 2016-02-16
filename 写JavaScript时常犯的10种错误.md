@@ -1,6 +1,7 @@
 ---
 date: 2015-12-24 18:12
 status: public
+tag: JavaScript
 title: 写JavaScript时常犯的10种错误
 url: /10-most-common-javascript-mistakes
 ---
@@ -8,8 +9,6 @@ url: /10-most-common-javascript-mistakes
 时至今日，JavaScript 无疑已经几乎是所有web应用开发的核心技术了。在过去的几年中，随着大量强大的JavaScript库， 单页面应用框架， 数据可视化，动画，甚至服务端Javsscript 平台的激增，JavaScript 在 Web APP 开发 中变得越来越常见，理所当然的成为了一个大神成长之路上必点的技能点。
 
 乍一看, JavaScript 貌似很简单。 但事实是，如果仅仅是用JavaScript在网页上实现一些基本功能的话对任何一位有经验的开发者来说都是很简单的，哪怕他之前没有写过 JavaScript。**但是，JavaScript 确实要比人们普遍所认为的要更加琐碎，强大，复杂。实际上，JavaScript的很多不被注意的细节经常让代码无法按照预期正常运行， - 我们在这里挑出了10个常见问题来讨论 - 如果你想成为一个 JavaScript 大神，那么你应该知道并且避免这些问题。**
-
-![](~/13-00-20.jpg)
 
 ##常见问题1： this 的错误引用
 
